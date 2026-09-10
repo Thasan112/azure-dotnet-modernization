@@ -24,3 +24,4 @@ This project demonstrates the transition of legacy monolithic systems into light
 
 ### Architecture Diagram
 Below is the architectural blueprint illustrating the deployment workflow:
+![Azure Container Modernization Architecture](Azure_container_registry.jpeg)
